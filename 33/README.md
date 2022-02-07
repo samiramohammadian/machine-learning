@@ -1,6 +1,6 @@
-- DATA DRIVEN GROWTH WITH PYTHON
+# DATA DRIVEN GROWTH WITH PYTHON
 
-# we have data analysing for a shop and we want to figure out why are they have less sale in April.
+## we have data analysing for a shop and we want to figure out why are they have less sale in April.
 
 - Monthly sales chart
 
